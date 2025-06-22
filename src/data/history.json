@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Internship Front-End Engineer",
+    "organisation": "Nagapara",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Worked with the web development", 
+      "Performed bug checking and troubleshooting"
+    ],
+    "imageSrc": "assets/history/nagapara.png"
+  },
+  {
+    "role": "Practical Instructor",
+    "organisation": "ITG",
+    "startDate": "Feb, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Managed student assessment", 
+      "Monitored student progress"
+    ],
+    "imageSrc": "assets/history/itg.png"
+  }
+]

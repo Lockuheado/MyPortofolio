@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "assets/skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "assets/skills/react.png"
+  },
+  {
+    "title": "UE 5",
+    "imageSrc": "assets/skills/unreal.png"
+  },
+  {
+    "title": "CorelDraw",
+    "imageSrc": "assets/skills/corel.png"
+  },
+  {
+    "title": "Animate",
+    "imageSrc": "assets/skills/animate.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "assets/skills/figma.png"
+  },
+  {
+    "title": "Premiere",
+    "imageSrc": "assets/skills/premiere.png"
+  }
+]

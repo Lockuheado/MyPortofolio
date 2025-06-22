@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Game Menu's Project",
+    "imageSrc": "assets/projects/UEProject.png",
+    "description": "This is a project made to create a main menu and pause menu for a game.",
+    "skills": ["C++", "UE 5"],
+    "demo": "https://drive.google.com/drive/folders/10HvUq_8YRX_c7AkzcBTqhSlxW8FNxiUJ?usp=drive_link",
+    "source": "https://drive.google.com/drive/folders/1FPU73FemiAqA9g9sPHiMqIaNLEVl8n-G?usp=sharing"
+  },
+  {
+    "title": "Website Portofolio",
+    "imageSrc": "assets/projects/MyWeb.png",
+    "description": "This is a project made to learn the basic of React.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ACC BMW M4 GT3",
+    "imageSrc": "assets/projects/Livery.png",
+    "description": "This is a project made to creat a livery for a car in ACC.",
+    "skills": ["CorelDraw", "AssettoCorsa"],
+    "demo": "https://drive.google.com/drive/folders/14x47GVXxE6bzNN_yvqUgn8hV0Ef84dFm?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/14x47GVXxE6bzNN_yvqUgn8hV0Ef84dFm?usp=sharing"
+  }
+]
