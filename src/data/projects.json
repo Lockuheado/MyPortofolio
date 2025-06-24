@@ -22,5 +22,13 @@
     "skills": ["CorelDraw", "AssettoCorsa"],
     "demo": "https://drive.google.com/drive/folders/14x47GVXxE6bzNN_yvqUgn8hV0Ef84dFm?usp=sharing",
     "source": "https://drive.google.com/drive/folders/14x47GVXxE6bzNN_yvqUgn8hV0Ef84dFm?usp=sharing"
+  },
+  {
+    "title": "YouTube Channel",
+    "imageSrc": "assets/projects/MyYT.png",
+    "description": "This is a YpuTube Channel i created to have fun.",
+    "skills": ["CorelDraw", "Adobe Premiere"],
+    "demo": "https://www.youtube.com/@AlwanArdana",
+    "source": "https://www.youtube.com/@AlwanArdana"
   }
 ]
